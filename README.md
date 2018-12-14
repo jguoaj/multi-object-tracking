@@ -25,8 +25,8 @@ The code has been tested in python 3.5, ubuntu 16.04.
 
 ### Results
 
-test result video 1: https://youtu.be/SKX-EcQnens \br
-test result video 2: https://youtu.be/56RKbOaInYI
+1. test result video 1: https://youtu.be/SKX-EcQnens
+2. test result video 2: https://youtu.be/56RKbOaInYI
 
 ### Reference work
 1. keras YOLO v3: https://github.com/qqwweee/keras-yolo3
