@@ -28,7 +28,7 @@ The code has been tested in python 3.5, ubuntu 16.04.
 test result video: https://youtu.be/SKX-EcQnens
 
 ### Reference work
-keras YOLO v3: https://github.com/qqwweee/keras-yolo3
-deep_sort: https://github.com/nwojke/deep_sort
-YOLO v3 deep_sort integration: https://github.com/Qidian213/deep_sort_yolov3
-optical flow: https://github.com/ZheyuanXie/OpticalFlow
+1. keras YOLO v3: https://github.com/qqwweee/keras-yolo3
+2. deep_sort: https://github.com/nwojke/deep_sort
+3. YOLO v3 deep_sort integration: https://github.com/Qidian213/deep_sort_yolov3
+4. optical flow: https://github.com/ZheyuanXie/OpticalFlow
