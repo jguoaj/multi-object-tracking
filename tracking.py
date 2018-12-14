@@ -51,9 +51,7 @@ def main(yolo):
     writeVideo_flag = True 
     OPTICAL = False
 
-    video_filename = '../dataset/people.mp4'
-    #video_filename = '../dataset/Easy.mp4'
-    #video_filename = '../dataset/video/people1.mp4'
+    video_filename = './dataset/people.mp4'
     video_capture = cv2.VideoCapture(video_filename)
 
     if writeVideo_flag:
