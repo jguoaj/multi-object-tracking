@@ -25,7 +25,7 @@ The code has been tested in python 3.5, ubuntu 16.04.
 
 ### Results
 
-test result video 1: https://youtu.be/SKX-EcQnens
+test result video 1: https://youtu.be/SKX-EcQnens \br
 test result video 2: https://youtu.be/56RKbOaInYI
 
 ### Reference work
