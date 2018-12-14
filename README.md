@@ -13,7 +13,7 @@ The code has been tested in python 3.5, ubuntu 16.04.
 1. tensorflow
 2. keras
 3. numpy
-4. sklean
+4. sklearn
 5. scipy
 6. scikit-image
 7. opencv
