@@ -16,7 +16,7 @@ The code has been tested in python 3.5, ubuntu 16.04.
 4. sklearn
 5. scipy
 6. scikit-image
-7. opencv
+7. opencv-python
 
 ### How to run
 1. Download yolov3 model from [YOLO website](http://pjreddie.com/darknet/yolo/). Convert this model to a Keras model. For this project, we train a new yolov3 model and use Keras.save_model. 
